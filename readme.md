@@ -25,7 +25,7 @@ A simple Django-based REST API for a fictional fitness studio offering classes l
 ##  Setup Instructions
 
 ```bash
-git clone https://github.com/<your-username>/fitness-booking-api.git
+git clone https://github.com/Ananttyagi004/Fitness-Booking-Assignment
 cd fitness-booking-api
 python -m venv env
 source env/bin/activate   # Windows: env\Scripts\activate
